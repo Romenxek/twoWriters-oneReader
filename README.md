@@ -1,1 +1,3 @@
-# twoWriters-oneReader
+# writer-mapfile-reader
+
+Реализация на WinAPI в терминах C++ программы параллельного чтения/записи в буфер
